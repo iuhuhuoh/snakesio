@@ -2,7 +2,7 @@
     "ads" : [
         {
             "demo" : "true",
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "activate_ads_game" : "true",
             "activate_banner" : "on",
             "activate_inter" : "on",
@@ -32,7 +32,7 @@
             "fan_int": "2455443151275039_2455451494607538",
             "fan_rewarded": "2455443151275039_2455451697940851",
 
-            "iron_key": "188772305",
+            "iron_key": "",
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
             "iron_rewarded" : "DefaultRewardedVideo",
