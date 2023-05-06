@@ -7,7 +7,7 @@
             "activate_banner" : "on",
             "activate_inter" : "on",
             
-            "network" : "",
+            "network" : "is",
 
             "one_signal" : "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
             
@@ -32,7 +32,7 @@
             "fan_int": "2455443151275039_2455451494607538",
             "fan_rewarded": "2455443151275039_2455451697940851",
 
-            "iron_key": "19e0ffad5",
+            "iron_key": "",
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
             "iron_rewarded" : "DefaultRewardedVideo",
