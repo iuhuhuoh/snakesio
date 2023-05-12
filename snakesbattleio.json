@@ -4,8 +4,8 @@
             "demo" : "true",
             "activate_ads" : "true",
             "activate_ads_game" : "true",
-            "activate_banner" : "off",
-            "activate_inter" : "off",
+            "activate_banner" : "on",
+            "activate_inter" : "on",
             
             "network" : "is",
 
