@@ -50,7 +50,7 @@
             "game_name": "Snake Battle Game",
             "game_cover": "https://gabigames.co/wp-content/uploads/slither.io-game.jpg",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
-            "game_link": "https://yandex.com/games/app/144252#app-id=144252&catalog-session-uid=catalog-51c5f033-6eab-59fd-b11c-c073b51d10d4-1675562756674-fdf2&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
+            "game_link": "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -169,7 +169,7 @@
             "bg" : "https://study.com/learn/lesson/product-advertisement-overview-examples.html"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Spinner",
             "ico" : "https://9asso.github.io/published/imgs/btspin.png",
@@ -183,7 +183,7 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Puzzle",
             "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
@@ -197,15 +197,15 @@
             "bg" : "#ffffff"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "active_reward" : "false",
             "name" : "Wallpapers",
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
             "bg" : "#ffffff"
         },
         {
-            "active" : "true",
-            "active_reward" : "true",
+            "active" : "false",
+            "active_reward" : "false",
             "name" : "Scratch",
             "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
             "bg" : "#ffffff"
@@ -252,43 +252,43 @@
         {
             "name" : "Snake.io: Fun Snake .io Games",
             "ico" : "https://gabigames.co/wp-content/uploads/slither.io-game.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/k/knife-rain/v820/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=acf1dae7-f647-4107-b381-8817a18a6e4d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=672&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
             "cat" : "Overall",
             "orientation" : "1"
         },{
             "name" : "Cat Condo",
             "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
             "cat" : "Strategies",
             "orientation" : "0"
         },{
             "name" : "Power Up: Superhero Challenge",
             "ico" : "https://www.techmen.net/wp-content/uploads/2018/05/Supersnake.io_.png",
-            "link" : "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=669&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
             "cat" : "Soccer",
             "orientation" : "1"
         },{
             "name" : "Stacky Bird: Fun Egg Dash Game",
             "ico" : "https://mydailyspins.com/wp-content/uploads/2021/11/maxresdefault-5.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/s/slam-dunk-basketball/v090/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=850989c0-0838-453d-95b6-f18d7922f21d&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=674&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
             "cat" : "Arcade",
             "orientation" : "1"
         },{
             "name" : "Cat Escape",
             "ico" : "https://cdn6.aptoide.com/imgs/2/6/3/2636c71a259b1b38a1b562343edce404_fgraphic.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/b/bubble-tower-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=1385d98a-b5f2-4339-bce7-b99a8dd2e8b0&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=667&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
             "cat" : "Puzzles",
             "orientation" : "0"
         },{
             "name" : "Cat Condo",
             "ico" : "https://image.winudf.com/v2/image1/Y29tLm15Z2FtZXNpc2xhbmQuaXMuc25ha2Vfc2NyZWVuXzRfMTY0NTU3MzY4NV8wODE/screen-4.jpg?fakeurl=1&type=.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
             "cat" : "Hypercasual",
             "orientation" : "1"
         },{
             "name" : "Power Up: Superhero Challenge",
             "ico" : "https://image.winudf.com/v2/image/Y29tLnNuYWtlZ2FtZS5zbmFrZS5pb19zY3JlZW5fMTJfMTUzNTEwNjU1NV8wNjk/screen-12.jpg?fakeurl=1&type=.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=671&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+            "link" : "https://html5.gamedistribution.com/b4e927b5cb864a769decafe3bae24735/?gd_sdk_referrer_url=https://www.cabahtmlgames.com/game/snake-battle",
             "cat" : "Arcade",
             "orientation" : "0"
         }
